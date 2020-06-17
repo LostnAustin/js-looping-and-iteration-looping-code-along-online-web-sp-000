@@ -16,9 +16,9 @@ while (countDown > 0) {
 }
 //
 // function countdown(number) {
-//   while (countdown(number) > 0) {
+//   while (number > 0) {
 //     console.log(number);
-//     countdown(number) -= 1;
+//     number--;
 //   }
 //   console.log(countdown(number));
 //   }
