@@ -15,6 +15,6 @@ function countdown(number) {
     console.log(`counting down from ${number}`);
     number -= 1;
   }
-  console.log (number);
+  console.log(number);
   }
 }
