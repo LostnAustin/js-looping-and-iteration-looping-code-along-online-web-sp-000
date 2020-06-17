@@ -14,7 +14,7 @@ let countdown = number
 while (countdown > 0) {
   console.log(countdown--);
 }
-// 
+//
 // function countdown(number) {
 //   while (countdown(number) > 0) {
 //     console.log(number);
