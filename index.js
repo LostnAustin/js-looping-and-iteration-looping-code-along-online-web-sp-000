@@ -10,16 +10,16 @@ function writeCards(names, event) {
 }
 
 
-let countDown = number
-while (countDown > 0) {
-  console.log(countDown--);
-}
-//
-// function countdown(number) {
-//   while (number > 0) {
-//     console.log(number);
-//     number--;
-//   }
-//   console.log(countdown(number));
-//   }
+// let countDown = number
+// while (countDown > 0) {
+//   console.log(countDown--);
 // }
+//
+function countdown(number) {
+  while (number > 0) {
+    console.log(number);
+    number--;
+  }
+  console.log(countdown);
+  }
+}
