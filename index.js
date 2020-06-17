@@ -1,5 +1,5 @@
 // Code your solutions in this file
-const cards = [["Lisa", "Kaitlin", "Jan"]];
+const cards = ["Ada", "Brendan", "Ali"];
 
 function writeCards(cards) {
   for (let i = 0; i < cards.length; i++) {
@@ -8,4 +8,4 @@ function writeCards(cards) {
   return cards;
 }
 
-writeCards(["Lisa", "Kaitlin", "Jan"]);
+writeCards(cards);
