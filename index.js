@@ -8,3 +8,13 @@ function writeCards(names, event) {
   }
   return writtenCards;
 }
+
+
+function countDown(number) {
+  while (number > 0) {
+    console.log(`counting down from ${number}`);
+    number -= 1
+  }  
+  console.log (number);
+  }
+}
