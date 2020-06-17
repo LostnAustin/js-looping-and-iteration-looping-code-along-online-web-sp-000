@@ -20,5 +20,5 @@ function countDown(number) {
     console.log(number);
     number--;
   }
-  console.log(countDown);
+  console.log(number);
   }
